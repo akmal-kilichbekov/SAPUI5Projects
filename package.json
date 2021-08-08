@@ -1,0 +1,22 @@
+{
+  "name": "SAPUI5Projects",
+  "version": "1.0.0",
+  "description": "Having a fun with SAPUI5 projects",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akmal-kilichbekov/SAPUI5Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akmal-kilichbekov/SAPUI5Projects/issues"
+  },
+  "homepage": "https://github.com/akmal-kilichbekov/SAPUI5Projects#readme"
+}
